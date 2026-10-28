@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502781076555",
+    "project_id": "uthtodo-khg289",
+    "storage_bucket": "uthtodo-khg289.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502781076555:android:621c17325b611db560d9ce",
+        "android_client_info": {
+          "package_name": "com.example.apputh_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUjTFu56Cqe-3ABA2nQXa2bTeLN2CuxyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

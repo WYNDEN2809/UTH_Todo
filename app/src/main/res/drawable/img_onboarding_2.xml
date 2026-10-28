@@ -1,0 +1,51 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="250dp"
+    android:viewportWidth="240"
+    android:viewportHeight="250">
+
+    <!-- Khung nền xanh nhạt bo góc 24dp -->
+    <path
+        android:fillColor="#EEF2FF"
+        android:pathData="M24,0L216,0A24,24 0,0 1,240 24L240,226A24,24 0,0 1,216 250L24,250A24,24 0,0 1,0 226L0,24A24,24 0,0 1,24 0z" />
+
+    <!-- Card 1: Tag "Học tập" (xanh) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,54L206,54A14,14 0,0 1,220 68L220,104A14,14 0,0 1,206 118L34,118A14,14 0,0 1,20 104L20,68A14,14 0,0 1,34 54z" />
+    <!-- Nền tag xanh dương nhạt -->
+    <path
+        android:fillColor="#DBE4FF"
+        android:pathData="M42,66L90,66A8,8 0,0 1,98 74L98,80A8,8 0,0 1,90 88L42,88A8,8 0,0 1,34 80L34,74A8,8 0,0 1,42 66z" />
+    <!-- Chấm tròn + thanh xanh đại diện chữ "Học tập" -->
+    <path
+        android:fillColor="#3B5BDB"
+        android:pathData="M45,77m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#3B5BDB"
+        android:pathData="M54,75L86,75A2,2 0,0 1,88 77L88,77A2,2 0,0 1,86 79L54,79A2,2 0,0 1,52 77L52,77A2,2 0,0 1,54 75z" />
+    <!-- Thanh nội dung công việc -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M38,98L182,98A4,4 0,0 1,186 102L186,102A4,4 0,0 1,182 106L38,106A4,4 0,0 1,34 102L34,102A4,4 0,0 1,38 98z" />
+
+    <!-- Card 2: Tag "Cuộc sống" (cam) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,134L206,134A14,14 0,0 1,220 148L220,184A14,14 0,0 1,206 198L34,198A14,14 0,0 1,20 184L20,148A14,14 0,0 1,34 134z" />
+    <!-- Nền tag vàng cam nhạt -->
+    <path
+        android:fillColor="#FFF3BF"
+        android:pathData="M42,146L102,146A8,8 0,0 1,110 154L110,160A8,8 0,0 1,102 168L42,168A8,8 0,0 1,34 160L34,154A8,8 0,0 1,42 146z" />
+    <!-- Chấm tròn + thanh cam đại diện chữ "Cuộc sống" -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M45,157m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M54,155L98,155A2,2 0,0 1,100 157L100,157A2,2 0,0 1,98 159L54,159A2,2 0,0 1,52 157L52,157A2,2 0,0 1,54 155z" />
+    <!-- Thanh nội dung công việc -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M38,178L162,178A4,4 0,0 1,166 182L166,182A4,4 0,0 1,162 186L38,186A4,4 0,0 1,34 182L34,182A4,4 0,0 1,38 178z" />
+</vector>
